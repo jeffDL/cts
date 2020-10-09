@@ -15,7 +15,7 @@ to install Twilio and set up environment. If the other commands aren't working, 
 
 * To send a mass sms to everyone in *phone_list.csv*
 
-    > *Remember to always text person-to-person and **secure positive consent to recieve sms updates** before sending any automatic messages!*:
+    > *Remember to always text person-to-person and **secure positive consent to recieve sms updates** before sending any automatic messages! And all campaign advertisements must include 'Paid for by' or 'With', and disclose top donors. Relevant [California law](http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB201); [FCC guidelines](https://www.fcc.gov/political-campaign-robocalls-robotexts)*
 
     `list_send`
 
